@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/kamilhanna/emotion-hidden-state-whisperv3large-dataset
